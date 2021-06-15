@@ -5,5 +5,7 @@
 
 3.Delete your previous database(CSV) before inserting a new file 
 
+4.I have used Xampp Web server and MySQL for DB
+
 
 THANK YOU
