@@ -3,7 +3,7 @@
 
 2.Username ="root" : pass=""(none)
 
-3.Delete your previous database(CSV) before inserting a new file
+3.Delete your previous database(CSV) before inserting a new file 
 
-4.
+
 THANK YOU
